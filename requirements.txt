@@ -1,0 +1,8 @@
+PyQt5
+pyinstaller
+reportlab
+arabic-reshaper
+python-bidi
+Pillow
+watchdog
+plyer
